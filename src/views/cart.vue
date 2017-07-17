@@ -1,5 +1,5 @@
 <template>
-    <div>
-        首页
+    <div> 
+        购物车
     </div>
 </template>
