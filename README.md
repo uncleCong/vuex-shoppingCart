@@ -1,8 +1,8 @@
-# vuelearn
+# vuex购物车示例
 
-> this is a test project
+> 实现商品的增删改及跨组件数据的通信
 
-## Build Setup
+## 安装与运行
 
 ``` bash
 # install dependencies
