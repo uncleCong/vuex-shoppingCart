@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader)，预览地址http://www.lingcong.wang/project/cart/index.html#/(pc访问请打开手机模式访问)
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader)，预览地址(pc访问请打开手机模式访问)http://www.lingcong.wang/project/cart/index.html#/
