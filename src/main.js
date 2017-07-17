@@ -4,6 +4,7 @@ import App from './views/App.vue'
 import router from './router'
 import toast from './lib/toast'
 import store from './vuex/store.js'
+import './assets/common.css'
 // 注册组件及插件
 Vue.use(toast)
 
